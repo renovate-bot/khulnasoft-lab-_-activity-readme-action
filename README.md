@@ -1,6 +1,4 @@
-# Template GitHub Composite Actions
-
-A template for GitHub Template GitHub Composite Actions
+# Activity readme action
 
 [![license][license-img]][license-url]
 [![release][release-img]][release-url]
